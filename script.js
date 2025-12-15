@@ -6,8 +6,9 @@ Temperature Drop: YES
 Radio Pattern: STRUCTURED
 EM Distortion: LOW`,
     options: [
-      "Demogorgon Alert",
+      
       "Radio Static / Interference",
+      "Demogorgon Alert",
       "Hawkins Anomaly"
     ],
     correct: "Demogorgon Alert"
@@ -32,9 +33,10 @@ Temperature Drop: YES
 Radio Pattern: REPEATING
 EM Distortion: MEDIUM`,
     options: [
-      "Upside Down Rift",
+     
       "Hawkins Anomaly",
-      "Radio Static / Interference"
+      "Radio Static / Interference",
+       "Upside Down Rift"
     ],
     correct: "Upside Down Rift"
   },
@@ -45,8 +47,9 @@ Temperature Drop: UNKNOWN
 Radio Pattern: STABLE
 EM Distortion: LOW`,
     options: [
-      "Unknown Upside Pattern",
+      
       "Hawkins Anomaly",
+      "Unknown Upside Pattern",
       "Upside Down Rift"
     ],
     correct: "Unknown Upside Pattern"
@@ -58,9 +61,10 @@ Temperature Drop: YES
 Radio Pattern: STABLE
 EM Distortion: LOW`,
     options: [
-      "Demogorgon Alert",
+      
       "Hawkins Anomaly",
-      "Radio Static / Interference"
+      "Radio Static / Interference",
+      "Demogorgon Alert"
     ],
     correct: "Demogorgon Alert"
   },
